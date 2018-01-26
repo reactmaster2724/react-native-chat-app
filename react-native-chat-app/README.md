@@ -1,33 +1,7 @@
-# react-native-chat-app
+# feathers-react-native-chat
+A React Native example chat app using Feathers that talks with the [feathers-chat](https://github.com/feathersjs/feathers-chat) server.
 
-## chat-app
-
-## chat-server
-
-### Getting Started
-
-Getting up and running is as easy as 1, 2, 3.
-
-1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
-2. Install your dependencies
-
-    ```
-    cd path/to/feathers-chat
-    npm install
-    ```
-
-3. Start your app
-
-    ```
-    npm start
-    ```
-
-4. Goto to browser and go to [localhost:3030/vanilla](http://localhost:3030/vanilla/)
-
-
-## react-native-chat-app
-
-### Getting Started
+## Getting Started
 
 1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
 
@@ -69,3 +43,9 @@ Getting up and running is as easy as 1, 2, 3.
     ```
 
 If you run into issues starting the apps please refer to the [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html). It's most likely a problem with your environment.
+
+## Changelog
+
+__O.1.0__
+
+- Initial release
