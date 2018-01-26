@@ -1,7 +1,5 @@
 # react-native-chat-app
 
-## chat-app
-
 ## chat-server
 
 ### Getting Started
